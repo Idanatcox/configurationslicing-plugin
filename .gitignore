@@ -3,3 +3,9 @@
 .settings/
 target/
 work/
+bin/
+.idea/
+configurationslicing.iml
+.settings
+bin/.gitignore
+.idea/.name
